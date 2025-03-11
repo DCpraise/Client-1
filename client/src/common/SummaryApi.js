@@ -1,4 +1,4 @@
-export const baseURL = "https://client1backend.vercel.app/" //import.meta.env.VITE_API_URL
+export const baseURL = "https://client1backend.vercel.app" //import.meta.env.VITE_API_URL
 
 const SummaryApi = {
     register : {
