@@ -39,7 +39,7 @@ const Home = () => {
               />
               <img
                 src={bannerMobile}
-                className='w-64 h-full rounded-md lg:hidden'
+                className='w-64 h-64 rounded-md items-center lg:hidden'
                 alt='banner' 
               />
           </div>
