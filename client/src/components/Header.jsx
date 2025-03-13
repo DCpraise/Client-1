@@ -64,7 +64,7 @@ const Header = () => {
                                 {/**logo */}
                                 <div className='h-full'>
                                     <Link to={"/"} className='h-full flex justify-center items-center'>
-                                    <h1 className=' text-2xl font-bold text-yellow-500 ml-2'>Lovey<span className='text-green-600 font-serif'>Luxury</span></h1>
+                                    <h1 className=' text-2xl font-bold text-yellow-500 ml-2'>Shop.<span className='text-green-600 font-serif'>ray</span></h1>
 
                                         {/* <img 
                                             src={logo}
