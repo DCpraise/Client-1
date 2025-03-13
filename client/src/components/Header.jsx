@@ -64,7 +64,9 @@ const Header = () => {
                                 {/**logo */}
                                 <div className='h-full'>
                                     <Link to={"/"} className='h-full flex justify-center items-center'>
-                                        <img 
+                                    <h1 className=' text-2xl font-bold text-yellow-500 ml-2'>Shop.<span className='text-green-600 font-serif'>ray</span></h1>
+
+                                        {/* <img 
                                             src={logo}
                                             width={170}
                                             height={60}
@@ -77,7 +79,7 @@ const Header = () => {
                                             height={60}
                                             alt='logo'
                                             className='lg:hidden'
-                                        />
+                                        /> */}
                                     </Link>
                                 </div>
 
