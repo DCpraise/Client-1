@@ -53,23 +53,23 @@ const Search = () => {
                         <TypeAnimation
                                 sequence={[
                                     // Same substring at the start will only be typed out once, initially
-                                    'Search "shoe"',
+                                    'Search "milk"',
                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'Search "bags"',
+                                    'Search "bread"',
                                     1000,
-                                    'Search "shoes"',
+                                    'Search "sugar"',
                                     1000,
-                                    'Search "accessories"',
+                                    'Search "panner"',
                                     1000,
-                                    'Search "jewelry"',
+                                    'Search "chocolate"',
                                     1000,
-                                    'Search "women heels"',
+                                    'Search "curd"',
                                     1000,
-                                    'Search "black bags"',
+                                    'Search "rice"',
                                     1000,
-                                    'Search "women outfit"',
+                                    'Search "egg"',
                                     1000,
-                                    'Search "women bags"',
+                                    'Search "chips"',
                                 ]}
                                 wrapper="span"
                                 speed={50}
