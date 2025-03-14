@@ -173,7 +173,7 @@ const ProductDisplayPage = () => {
                         className='w-20 h-20'
                       />
                       <div className='text-sm'>
-                        <div className='font-semibold'>Superfast Delivery</div>
+                        <div className='font-semibold'>Superfast Delivery </div>
                         <p>Get your orer delivered to your doorstep at the earliest from dark stores near you.</p>
                       </div>
                   </div>
@@ -196,7 +196,7 @@ const ProductDisplayPage = () => {
                       />
                       <div className='text-sm'>
                         <div className='font-semibold'>Wide Assortment</div>
-                        <p>Choose from 5000+ products across food personal care, household & other categories.</p>
+                        <p>Choose from 3000+ products across food personal care, household & other categories.</p>
                       </div>
                   </div>
             </div>
